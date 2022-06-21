@@ -1,0 +1,77 @@
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1.5rem;
+  margin-bottom: auto;
+  border-spacing: 0.75rem;
+
+}
+.main-head {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: lighter;
+
+}
+.small-text {
+  font-size: 0.75rem;
+}
+.big-text {
+  font-size: 2rem;
+
+  padding: 0 1.5rem 0 1.5rem;
+}
+.body-textsize {
+  font-size: 1rem;
+
+}
+.pad {
+  padding: 0.5rem 2rem 0.5rem 2rem;
+
+
+background-color: rgb(211,211,211);
+}
+.pad1 {
+  padding: 0.5rem 2rem 0.5rem 2rem;
+  color: white;
+  background-color: grey;
+border-top-left-radius : 5rem;
+font-weight: lighter;
+}
+.pad2 {
+  padding: 0.5rem 2rem 0.5rem 2rem;
+  color: white;
+  background-color: rgb(255,165,0);
+font-weight: lighter;
+}
+.pad3 {
+  padding: 0.5rem 2rem 0.5rem 2rem;
+  color: white;
+  background-color: rgb(135,206,235);
+font-weight: lighter;
+}
+.pad4 {
+  padding: 0.5rem 2rem 0.5rem 2rem;
+  color: white;
+  background-color: pink;
+font-weight: lighter;
+}
+.center-size {
+  font-size: 1.5rem;
+
+}
+.left {
+  text-align: left;
+  padding: 0.5rem 2rem 0.5rem 2rem;
+background-color: rgb(211,211,211);
+
+}
+.left1 {
+  text-align: left;
+  padding: 0.5rem 2rem 0.5rem 2rem;
+
+}
+.pad5 {
+  padding: 0.5rem 2rem 0.5rem 2rem;
+
+}
