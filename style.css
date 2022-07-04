@@ -7,16 +7,23 @@
   border-spacing: 0.75rem;
   border-style: outset;
   border-width: thick;
-  border-top-left-radius: 5rem;
+  border-top-left-radius: 6rem;
   border-color: inherit;
+background-color: hsla(0,80%,90%,0.9);
 
 
-
+}
+body{
+  background-color: hsla(360,100%,7%,0.5);
 }
 .main-head {
   text-align: center;
   font-size: 1.5rem;
   font-weight: lighter;
+  background-color: white;
+  margin-left: 350px;
+  margin-right: 250px;
+  border-top-left-radius: 2rem;
 
 }
 .small-text {
@@ -59,7 +66,7 @@ font-weight: lighter;
 .pad4 {
   padding: 0.5rem 2rem 0.5rem 2rem;
   color: white;
-  background-color: pink;
+  background-color: magenta;
 font-weight: lighter;
 }
 .center-size {
@@ -69,8 +76,8 @@ font-weight: lighter;
 .left {
   text-align: left;
   padding: 0.5rem 2rem 0.5rem 2rem;
-background-color: rgb(211,211,211);
-
+  background-color: hsla(360,100%,7%,0.5);
+color: white;
 }
 .left1 {
   text-align: left;
